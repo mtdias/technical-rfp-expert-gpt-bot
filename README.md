@@ -2,7 +2,6 @@
 
 ![GitHub contributors](https://img.shields.io/github/contributors/mtdias/technical-rfp-expert-gpt-bot)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/mtdias/technical-rfp-expert-gpt-bot)
-[![Star on GitHub](https://img.shields.io/github/stars/mtdias/technical-rfp-expert-gpt-bot.svg?style=social)](https://github.com/mtdias/technical-rfp-expert-gpt-bot)
 
 <img src="https://github.com/mtdias/technical-rfp-expert-gpt-bot/blob/main/technical-rfp-expert.png"  height="400"/>
 
@@ -29,12 +28,3 @@ Fluent in multiple languages.
 - Web Browsing
 - DALL·E Image Generation
 - Code Interpreter
-
-## Contributors
-
-We invite you to explore the assistant, take advantage of the available resources, and contribute with your own findings. Feel free to submit your contributions or improvement suggestions.
-
-<a href="https://github.com/mtdias/technical-rfp-expert-gpt-bot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mtdias/technical-rfp-expert-gpt-bot" />
-</a>
-
