@@ -1,4 +1,4 @@
-# Technical-RFP-Expert-gpt-bot
+# technical-rfp-expert-gpt-bot
 
 OpenAI ChatGPT - Public GPT:
 [https://chat.openai.com/g/g-APDSraFhe-technical-tender-expert](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert)
