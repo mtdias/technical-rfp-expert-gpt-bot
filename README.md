@@ -1,7 +1,13 @@
 # technical-rfp-expert-gpt-bot
 
+![GitHub contributors](https://img.shields.io/github/contributors/mtdias/technical-rfp-expert-gpt-bot)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/mtdias/technical-rfp-expert-gpt-bot)
+[![Star on GitHub](https://img.shields.io/github/stars/mtdias/technical-rfp-expert-gpt-bot.svg?style=social)](https://github.com/mtdias/Collection-of-Certifications-Badges-and-Courses)
+
 OpenAI ChatGPT - Public GPT:
 [https://chat.openai.com/g/g-APDSraFhe-technical-tender-expert](https://chat.openai.com/g/g-APDSraFhe-technical-rfp-expert)
+
+<img src="https://github.com/mtdias/technical-rfp-expert-gpt-bot/blob/main/technical-rfp-expert.png"  height="400"/>
 
 ## Technical RFP Expert - Objectives:
 
